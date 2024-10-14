@@ -21,11 +21,11 @@
 
 <!-- About Me -->
 ### 🙋‍♂️ About Me:
-- 🔭 I’m currently working as a Backend Intern at **NAVER VIETNAM**
+- 🔭 I’m currently working as a Backend Intern at **THAT NGHIEP**
 - 🌱 I’m learning **Kafka**, **Spring Boot**, and **Java Concurrency**
 - 💼 I’m open to new opportunities in backend engineering roles
 - 📫 Reach me at: **your-email@gmail.com**
-- ⚡ Fun fact: I love off-roading with Land Rover vehicles!
+- ⚡ Fun fact: I love money!
 
 <!-- GitHub Stats -->
 <p align="center">
