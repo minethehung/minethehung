@@ -26,8 +26,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Backend Engineer with a passion for **building scalable systems** and **open-source contributions**.
-- 🌱 Currently mastering **Distributed Systems**, **Kafka**, and **Spring Boot**.
+- 💼 Backend Engineer passionate about **building reliable, maintainable and scalable application**.
 - 💬 I love discussing topics like **architecture design**, **clean code**, and **system performance**.
 - 📖 Avid reader of tech blogs and books on **concurrency**, **microservices**, and **software design patterns**.
 <!--
@@ -44,32 +43,31 @@
 - Fixed critical bugs in [Another Project](https://github.com/another-project) related to concurrency and synchronization.
 
 ---
-
-### 📚 Blog Posts
-- [5 Best Practices for Building Scalable Microservices](https://yourblog.com/microservices-best-practices)
-- [Concurrency in Java: A Deep Dive into Virtual Threads](https://yourblog.com/java-concurrency-virtual-threads)
-- [Optimizing API Performance with Caching Strategies](https://yourblog.com/api-caching-strategies)
+--->
+### 📚 My Favorite Books
+- [Java Concurrency In Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
+- [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems ](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [Kafka: The Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/)
+- [Redis in Action](https://www.manning.com/books/redis-in-action)
 
 ---
--->
 
 ### 💻 Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=FFF" alt="Redis">
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch" alt="ELK">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak">
-</p>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minethehung&theme=tokyo-night)
 
 ---
 
